@@ -1,0 +1,79 @@
+{
+  "p-index": {
+    "head": {
+      "title": "home"
+    },
+    "org-header": true,
+    "org-banner":true,
+    "org-about-me":true,
+    "org-latest-publications":{
+      "mol-latest-pr-items": {
+          "item": [{
+              "alt": "item1",
+              "img": "assets/img/item-1.svg",
+              "text": " How to make Multi-Layered Parallax Illustration with CSS &amp; Javascript"
+            },
+            {
+              "alt": "item2",
+              "img": "assets/img/item-2.svg",
+              "text": " How to make Multi-Layered Parallax Illustration with CSS &amp; Javascript"
+            },
+            {
+              "alt": "item3",
+              "img": "assets/img/item-3.svg",
+              "text": " How to make Multi-Layered Parallax Illustration with CSS &amp; Javascript"
+            },
+            {
+              "alt": "item4",
+              "img": "assets/img/item-4.svg",
+              "text": " How to make Multi-Layered Parallax Illustration with CSS &amp; Javascript"
+            }
+          ]
+        }
+  },
+  "org-detailed":{
+    "mol-detailed-items": {
+        "items": [{
+            "title": "Jerry.ai",
+            "subtitle": "Head of Design",
+            "text": "10.2017 - Present / London, UK"
+          },
+          {
+            "title": "Brightedge",
+            "subtitle": "Senior UX Designer",
+            "text": "10.2017 - Present / London, UK"
+          },
+          {
+            "title": "YourMechanic",
+            "subtitle": "Senior UI/UX Designer -> Director of UX & Design",
+            "text": "10.2017 - Present / London, UK"
+          },
+          {
+            "title": "Freelance",
+            "subtitle": "UI/UX Design Consultant",
+            "text": "10.2017 - Present / London, UK"
+          },
+          {
+            "title": "RST-IT",
+            "subtitle": "Senior UI/UX Designer",
+            "text": "10.2017 - Present / London, UK"
+          },
+          {
+            "title": "Progres Media",
+            "subtitle": "UI/UX Designer",
+            "text": "10.2017 - Present / London, UK"
+          }
+        ]
+      }
+},
+"org-footer":true,
+"org-get-in-touch":{},
+    "foot": {
+      "vendor-scripts": {
+        "jquery": true,
+        "slick-slider": true,
+        "bootstrap": true
+      }
+    }
+  }
+}
